@@ -6,4 +6,12 @@
 
 # Leadership
 - skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites. 
+
+# Linux
+- skill: Linux
+  description: Linux based operation system administration.
+
+# Networking
+- skill: Networking
+  description: Network skills using for managin network connections, routing tables, firewalling, network services and network issues analising.
